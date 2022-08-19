@@ -1,4 +1,15 @@
-h3{
+h3,h4,h5{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: yellow;
+    text-align: center;
+
 }
+body{
+    background-color: tomato;
+}
+    #img1{
+     
+        margin: 20%;
+    
+   
+    }
